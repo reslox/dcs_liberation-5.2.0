@@ -1,0 +1,88 @@
+{
+  "country": "Spain",
+  "name": "Spain 1990",
+  "authors": "Khopa",
+  "description": "<p>Spain in the 90s</p>",
+  "locales": [
+    "es_ES"
+  ],
+  "aircrafts": [
+    "AV-8B Harrier II Night Attack",
+    "C-130",
+    "C-101CC Aviojet",
+    "EF-18A+ Hornet",
+    "F-5E Tiger II",
+    "UH-1H Iroquois"
+  ],
+  "awacs": [
+    "E-3A"
+  ],
+  "tankers": [
+    "KC-130",
+    "KC-135 Stratotanker"
+  ],
+  "frontline_units": [
+    "Leopard 2A4",
+    "M1097 Heavy HMMWV Avenger",
+    "M113",
+    "M60A3 \"Patton\""
+  ],
+  "artillery_units": [],
+  "logistics_units": [
+    "Truck M818 6x6"
+  ],
+  "infantry_units": [
+    "Infantry M249",
+    "Infantry M4"
+  ],
+  "air_defenses": [
+    "AvengerGenerator",
+    "HawkGenerator",
+    "PatriotGenerator",
+    "RolandGenerator"
+  ],
+  "ewrs": [
+    "PatriotEwrGenerator"
+  ],
+  "aircraft_carrier": [
+    "Stennis"
+  ],
+  "helicopter_carrier": [
+    "LHA_Tarawa"
+  ],
+  "destroyers": [
+    "PERRY"
+  ],
+  "cruisers": [
+    "TICONDEROG"
+  ],
+  "requirements": {},
+  "carrier_names": [
+    "Principe de Asturias"
+  ],
+  "helicopter_carrier_names": [
+    "Juan Carlos I"
+  ],
+  "navy_generators": [
+    "OliverHazardPerryGroupGenerator"
+  ],
+  "has_jtac": true,
+  "jtac_unit": "MQ-9 Reaper",
+  "liveries_overrides": {
+    "EF-18A+ Hornet": [
+      "Spain 111th Escuadron C.15-73",
+      "Spain 111th Escuadron C.15-88",
+      "Spain 121th Escuadron C.15-45",
+      "Spain 121th Escuadron C.15-50",
+      "Spain 121th Escuadron C.15-60",
+      "Spain 151th Escuadron C.15-14",
+      "Spain 151th Escuadron C.15-18",
+      "Spain 151th Escuadron C.15-23",
+      "Spain 151th Escuadron C.15-24",
+      "Spain 211th Escuadron C.15-76",
+      "Spain 211th Escuadron C.15-77",
+      "Spain 462th Escuadron C.15-79",
+      "Spain 462th Escuadron C.15-90"
+    ]
+  }
+}

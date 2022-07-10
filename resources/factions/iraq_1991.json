@@ -1,0 +1,87 @@
+{
+  "country": "Iraq",
+  "name": "Iraq 1991",
+  "authors": "Hawkmoon",
+  "description": "<p>Iraq forces during desert Storm</p>",
+  "aircrafts": [
+    "IL-76MD",
+    "L-39ZA Albatros",
+    "Mi-24V Hind-E",
+    "Mi-24P Hind-F",
+    "Mi-8MTV2 Hip",
+    "MiG-19P Farmer-B",
+    "MiG-21bis Fishbed-N",
+    "MiG-23ML Flogger-G",
+    "MiG-25PD Foxbat-E",
+    "MiG-29A Fulcrum-A",
+    "SA 342M Gazelle",
+    "Su-22M4 Fitter-K",
+    "Su-24M Fencer-D",
+    "Su-25 Frogfoot",
+    "Tu-22M3 Backfire-C",
+	"H-6J Badger"
+  ],
+  "awacs": [
+    "A-50"
+  ],
+  "tankers": [
+    "IL-78M"
+  ],
+  "frontline_units": [
+    "2S1 Gvozdika",
+    "Chieftain Mk.3",
+    "BMP-1",
+    "BRDM-2",
+    "BTR-80",
+    "MT-LB",
+    "PT-76",
+    "T-55A",
+    "T-72B with Kontakt-1 ERA",
+    "ZSU-23-4 Shilka",
+    "ZSU-57-2 'Sparka'"
+  ],
+  "artillery_units": [
+    "BM-21 Grad"
+  ],
+  "logistics_units": [
+    "LUV UAZ-469 Jeep",
+    "Truck Ural-375"
+  ],
+  "infantry_units": [
+    "Infantry AK-74 Rus",
+    "MANPADS SA-18 Igla \"Grouse\"",
+    "Paratrooper AKS",
+    "Paratrooper RPG-16"
+  ],
+  "air_defenses": [
+    "ColdWarFlakGenerator",
+    "EarlyColdWarFlakGenerator",
+    "SA2Generator",
+    "SA3Generator",
+    "SA6Generator",
+    "SA8Generator",
+    "SA9Generator",
+    "SA13Generator",
+    "ZSU23Generator",
+    "ZU23Generator",
+    "ZU23UralGenerator"
+  ],
+  "ewrs": [
+    "BoxSpringGenerator"
+  ],
+  "missiles": [
+    "ScudGenerator"
+  ],
+  "missiles_group_count": 1,
+  "aircraft_carrier": [],
+  "helicopter_carrier": [],
+  "helicopter_carrier_names": [],
+  "destroyers": [],
+  "cruisers": [],
+  "requirements": {},
+  "carrier_names": [],
+  "navy_generators": [
+    "GrishaGroupGenerator"
+  ],
+  "doctrine": "coldwar"
+}

@@ -1,0 +1,53 @@
+{
+  "country": "Russia",
+  "name": "Russia 1955",
+  "authors": "Khopa",
+  "description": "<p>Soviet army around 1955, during the Korean War</p>",
+  "locales": [
+    "ru_RU"
+  ],
+  "aircrafts": [
+    "MiG-15bis Fagot",
+    "Mi-8MTV2 Hip"
+  ],
+  "awacs": [
+    "A-50"
+  ],
+  "tankers": [
+    "IL-78M"
+  ],
+  "frontline_units": [
+    "8.8 cm Flak 18",
+    "BRDM-2",
+    "Grad MRL FDDM (FC)",
+    "MT-LB",
+    "PT-76",
+    "S-60 57mm",
+    "T-55A",
+    "ZU-23 on Ural-375"
+  ],
+  "artillery_units": [
+    "BM-21 Grad"
+  ],
+  "logistics_units": [
+    "LUV UAZ-469 Jeep",
+    "Truck Ural-375"
+  ],
+  "infantry_units": [
+    "Infantry AK-74 Rus",
+    "Infantry RPG"
+  ],
+  "air_defenses": [
+    "EarlyColdWarFlakGenerator"
+  ],
+  "aircraft_carrier": [],
+  "helicopter_carrier": [],
+  "helicopter_carrier_names": [],
+  "destroyers": [],
+  "cruisers": [],
+  "requirements": {},
+  "carrier_names": [],
+  "navy_generators": [],
+  "has_jtac": false,
+  "doctrine": "coldwar"
+}

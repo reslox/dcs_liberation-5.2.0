@@ -1,0 +1,95 @@
+{
+  "country": "Combined Joint Task Forces Red",
+  "name": "Syria 2012'ish",
+  "authors": "Headiii",
+  "description": "<p>Syrian Army with more modern Imports and supported by a Russian Expeditionary Force.</p>",
+  "aircrafts": [
+    "IL-76MD",
+    "L-39ZA Albatros",
+    "Mi-24V Hind-E",
+    "Mi-24P Hind-F",
+    "Mi-8MTV2 Hip",
+    "MiG-23MLD Flogger-K",
+    "MiG-25PD Foxbat-E",
+    "MiG-29S Fulcrum-C",
+    "SA 342L Gazelle",
+    "SA 342M Gazelle",
+    "Su-24M Fencer-D",
+    "Su-25 Frogfoot",
+    "Su-30 Flanker-C",
+    "Su-34 Fullback"
+  ],
+  "awacs": [
+    "A-50"
+  ],
+  "tankers": [
+    "IL-78M"
+  ],
+  "frontline_units": [
+    "BMP-1",
+    "BMP-2",
+    "BRDM-2",
+    "BTR-80",
+    "Cobra",
+    "MT-LB",
+    "PT-76",
+    "T-55A",
+    "T-72B with Kontakt-1 ERA",
+    "T-90A",
+    "ZSU-57-2 'Sparka'"
+  ],
+  "artillery_units": [
+    "2S1 Gvozdika",
+    "2S9 Nona-S",
+    "BM-21 Grad",
+    "BM-27 Uragan"
+  ],
+  "logistics_units": [
+    "LUV UAZ-469 Jeep",
+    "Truck Ural-375"
+  ],
+  "infantry_units": [
+    "Infantry AK-74 Rus",
+    "MANPADS SA-18 Igla-S \"Grouse\"",
+    "Paratrooper AKS",
+    "Paratrooper RPG-16"
+  ],
+  "air_defenses": [
+    "ColdWarFlakGenerator",
+    "SA2Generator",
+    "SA3Generator",
+    "SA5Generator",
+    "SA6Generator",
+    "SA8Generator",
+    "SA8Generator",
+    "SA9Generator",
+    "SA10Generator",
+    "SA11Generator",
+    "SA13Generator",
+    "SA17Generator",
+    "SA19Generator",
+    "ZSU23Generator",
+    "ZU23Generator",
+    "ZU23UralGenerator"
+  ],
+  "ewrs": [
+    "BoxSpringGenerator",
+    "TallRackGenerator",
+    "TinShieldGenerator"
+  ],
+  "missiles": [
+    "ScudGenerator"
+  ],
+  "missiles_group_count": 1,
+  "aircraft_carrier": [],
+  "helicopter_carrier": [],
+  "helicopter_carrier_names": [],
+  "destroyers": [],
+  "cruisers": [],
+  "requirements": {},
+  "carrier_names": [],
+  "navy_generators": [
+    "GrishaGroupGenerator",
+    "MolniyaGroupGenerator"
+  ]
+}

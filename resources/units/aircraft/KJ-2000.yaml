@@ -1,0 +1,6 @@
+price: 50
+max_range: 2000
+patrol:
+  altitude: 40000
+variants:
+  KJ-2000: null

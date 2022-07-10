@@ -1,0 +1,103 @@
+{
+  "country": "China",
+  "name": "China 2010",
+  "authors": "Khopa",
+  "description": "<p>China in the late 2000s, early 2010s.</p>",
+  "locales": [
+    "zh_CN"
+  ],
+  "aircrafts": [
+    "FC-1 Fierce Dragon",
+    "IL-76MD",
+    "J-11A Flanker-L",
+    "J-15 Flanker X-2",
+    "J-7B",
+    "Mi-24P Hind-F",
+    "Mi-8MTV2 Hip",
+    "Su-30MKK Flanker-G",
+	"H-6J Badger"
+  ],
+  "awacs": [
+    "KJ-2000"
+  ],
+  "tankers": [
+    "IL-78M"
+  ],
+  "frontline_units": [
+    "BMP-1",
+    "HQ-7 Launcher",
+    "T-55A",
+    "Type 04A (ZBD-04A)",
+    "Type 96B (ZTZ-96B)"
+  ],
+  "artillery_units": [
+    "2S9 Nona-S",
+    "BM-30 Smerch (9M55K5 HE Rockets)",
+    "PLZ-05"
+  ],
+  "logistics_units": [
+    "LUV UAZ-469 Jeep",
+    "Truck Ural-375"
+  ],
+  "infantry_units": [
+    "Infantry AK-74 Rus",
+    "MANPADS SA-18 Igla-S \"Grouse\"",
+    "Paratrooper AKS",
+    "Paratrooper RPG-16"
+  ],
+  "air_defenses": [
+    "HQ7Generator",
+    "SA2Generator",
+    "SA6Generator",
+    "SA9Generator",
+    "SA10Generator",
+    "SA11Generator",
+    "SA13Generator",
+    "SA20BGenerator",
+    "Tier2SA10Generator",
+    "ZSU23Generator",
+    "ZSU57Generator",
+    "ZU23Generator",
+    "ZU23UralGenerator"
+  ],
+  "ewrs": [
+    "BoxSpringGenerator",
+    "TallRackGenerator"
+  ],
+  "coastal_defenses": [
+    "SilkwormGenerator"
+  ],
+  "coastal_group_count": 2,
+  "aircraft_carrier": [
+    "KUZNECOW"
+  ],
+  "carrier_names": [
+    "001 Liaoning",
+    "002 Shandong"
+  ],
+  "helicopter_carrier": [
+    "Type_071"
+  ],
+  "helicopter_carrier_names": [
+    "Kunlun Shan",
+    "Jinggang Shan",
+    "Changbai Shan",
+    "Yimeng Shan",
+    "Longhu Shan",
+    "Wuzhi Shan",
+    "Wudang Shan"
+  ],
+  "destroyers": [
+    "Type_052B",
+    "Type_052C"
+  ],
+  "cruiser": [
+    "Type_054A"
+  ],
+  "requirements": {},
+  "navy_generators": [
+    "ChineseNavyGroupGenerator"
+  ],
+  "has_jtac": true,
+  "jtac_unit": "WingLoong-I"
+}

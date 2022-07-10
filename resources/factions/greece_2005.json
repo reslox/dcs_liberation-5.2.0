@@ -1,0 +1,64 @@
+{
+  "country": "Greece",
+  "name": "Greece 2005",
+  "authors": "Malakhit",
+  "description": "<p>Hellenic army in the mid/late 2000s.</p>",
+  "locales": [
+    "el_GR"
+  ],
+  "aircrafts": [
+    "AH-64A Apache",
+    "C-130",
+    "C-130J-30 Super Hercules",
+    "F-16CM Fighting Falcon (Block 50)",
+    "F-4E Phantom II",
+    "Mirage 2000-5",
+    "Mirage 2000C",
+    "UH-1H Iroquois"
+  ],
+  "awacs": [
+    "E-3A"
+  ],
+  "tankers": [
+    "KC-130"
+  ],
+  "frontline_units": [
+    "BMP-1",
+    "Leopard 1A3",
+    "Leopard 2A4",
+    "M1043 HMMWV (M2 HMG)",
+    "M1045 HMMWV (BGM-71 TOW)",
+    "M113",
+    "M60A3 \"Patton\""
+  ],
+  "artillery_units": [
+    "M109A6 Paladin",
+    "M270 Multiple Launch Rocket System"
+  ],
+  "logistics_units": [
+    "Truck M818 6x6"
+  ],
+  "infantry_units": [
+    "Infantry M249",
+    "Infantry M4",
+    "MANPADS Stinger"
+  ],
+  "air_defenses": [
+    "HawkGenerator",
+    "PatriotGenerator",
+    "SA8Generator",
+    "SA10Generator",
+    "SA15Generator",
+    "SA20Generator",
+    "ZU23Generator"
+  ],
+  "ewrs": [
+    "FlatFaceGenerator"
+  ],
+  "navy_generators": [
+    "LaCombattanteIIGroupGenerator"
+  ],
+  "has_jtac": true,
+  "jtac_unit": "MQ-9 Reaper",
+  "unrestricted_satnav": true
+}

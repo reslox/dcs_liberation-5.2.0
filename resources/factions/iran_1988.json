@@ -1,0 +1,86 @@
+{
+  "country": "Iran",
+  "name": "Iran 1988",
+  "authors": "Malakhit",
+  "description": "<p>Iran at the end of the Iran-Iraq war</p>",
+  "locales": [
+    "fa_IR"
+  ],
+  "aircrafts": [
+    "AH-1J SeaCobra",
+    "F-14A Tomcat (Block 135-GR Late)",
+    "F-4E Phantom II",
+    "F-5E Tiger II",
+    "MiG-21bis Fishbed-N"
+  ],
+  "awacs": [
+    "A-50"
+  ],
+  "tankers": [
+    "IL-78M"
+  ],
+  "frontline_units": [
+    "Chieftain Mk.3",
+    "BMP-1",
+    "BTR-80",
+    "M113",
+    "M60A3 \"Patton\"",
+    "ZSU-23-4 Shilka",
+    "ZU-23 on Ural-375",
+    "ZSU-57-2 'Sparka'"
+  ],
+  "artillery_units": [
+    "2S1 Gvozdika",
+    "M109A6 Paladin",
+    "BM-21 Grad"
+  ],
+  "logistics_units": [
+    "LUV UAZ-469 Jeep",
+    "Truck Ural-375"
+  ],
+  "infantry_units": [
+    "Infantry RPG",
+    "Insurgent AK-74",
+    "MANPADS SA-18 Igla \"Grouse\" Ins"
+  ],
+  "air_defenses": [
+    "HawkGenerator",
+    "RapierGenerator",
+    "SA2Generator",
+    "ZSU23Generator",
+    "ZU23InsurgentGenerator",
+    "ZU23UralInsurgentGenerator",
+    "ZSU57Generator",
+    "ColdWarFlakGenerator"
+  ],
+  "ewrs": [
+    "FlatFaceGenerator",
+    "HawkEwrGenerator"
+  ],
+  "aircraft_carrier": [],
+  "helicopter_carrier": [],
+  "helicopter_carrier_names": [],
+  "destroyers": [
+    "REZKY"
+  ],
+  "cruisers": [
+    "MOLNIYA"
+  ],
+  "requirements": {},
+  "carrier_names": [],
+  "missiles": [
+    "ScudGenerator"
+  ],
+  "missiles_group_count": 1,
+  "coastal_defenses": [
+    "SilkwormGenerator"
+  ],
+  "coastal_group_count": 2,
+  "navy_generators": [
+    "LaCombattanteIIGroupGenerator",
+    "MolniyaGroupGenerator"
+  ],
+  "has_jtac": true,
+  "jtac_unit": "MQ-9 Reaper",
+  "doctrine": "coldwar"
+}

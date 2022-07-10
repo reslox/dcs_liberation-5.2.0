@@ -1,0 +1,80 @@
+{
+  "country": "Libya",
+  "name": "Libya 2011",
+  "authors": "Khopa",
+  "description": "<p>Gaddafi's Lybian forces during the 2011 international intervention</p>",
+  "aircrafts": [
+    "IL-76MD",
+    "Mi-24V Hind-E",
+    "Mi-24P Hind-F",
+    "Mi-8MTV2 Hip",
+    "MiG-21bis Fishbed-N",
+    "MiG-23MLD Flogger-K",
+    "Su-17M4 Fitter-K",
+    "Su-24M Fencer-D"
+  ],
+  "awacs": [
+    "A-50"
+  ],
+  "tankers": [
+    "IL-78M"
+  ],
+  "frontline_units": [
+    "BMP-1",
+    "BRDM-2",
+    "PT-76",
+    "SAM SA-8 Osa \"Gecko\" TEL",
+    "T-55A",
+    "T-72B with Kontakt-1 ERA",
+    "ZSU-23-4 Shilka"
+  ],
+  "artillery_units": [
+    "BM-21 Grad"
+  ],
+  "logistics_units": [
+    "LUV UAZ-469 Jeep",
+    "Truck Ural-375"
+  ],
+  "infantry_units": [
+    "Insurgent AK-74",
+    "MANPADS SA-18 Igla \"Grouse\"",
+    "Paratrooper RPG-16"
+  ],
+  "air_defenses": [
+    "HQ7Generator",
+    "RapierGenerator",
+    "SA2Generator",
+    "SA3Generator",
+    "SA5FlatFaceGenerator",
+    "SA6Generator",
+    "SA8Generator",
+    "SA9Generator",
+    "SA13Generator",
+    "ZSU23Generator"
+  ],
+  "ewrs": [
+    "BoxSpringGenerator",
+    "TallRackGenerator",
+    "TinShieldGenerator"
+  ],
+  "aircraft_carrier": [],
+  "helicopter_carrier": [],
+  "helicopter_carrier_names": [],
+  "missiles": [
+    "ScudGenerator"
+  ],
+  "missiles_group_count": 1,
+  "destroyers": [
+    "REZKY"
+  ],
+  "cruisers": [
+    "MOLNIYA"
+  ],
+  "requirements": {},
+  "carrier_names": [],
+  "navy_generators": [
+    "GrishaGroupGenerator",
+    "MolniyaGroupGenerator",
+    "LaCombattanteIIGroupGenerator"
+  ]
+}

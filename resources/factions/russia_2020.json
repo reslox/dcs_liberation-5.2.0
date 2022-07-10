@@ -1,0 +1,106 @@
+{
+  "country": "Russia",
+  "name": "Russia 2020",
+  "authors": "Khopa",
+  "description": "<p>Russia in 2020, using the Su-57 mod by Cubanace.</p>",
+  "locales": [
+    "ru_RU"
+  ],
+  "aircrafts": [
+    "IL-76MD",
+    "Ka-50 Hokum",
+    "L-39ZA Albatros",
+    "Mi-24V Hind-E",
+    "Mi-24P Hind-F",
+    "Mi-28N Havoc",
+    "Mi-8MTV2 Hip",
+    "MiG-29S Fulcrum-C",
+    "MiG-31 Foxhound",
+    "Su-24M Fencer-D",
+    "Su-25 Frogfoot",
+    "Su-25T Frogfoot",
+    "Su-27 Flanker-B",
+    "Su-30 Flanker-C",
+    "Su-33 Flanker-D",
+    "Su-34 Fullback",
+    "Su-57 Felon",
+    "Tu-142 Bear-F",
+    "Tu-160 Blackjack",
+    "Tu-22M3 Backfire-C",
+    "Tu-95MS Bear-H"
+  ],
+  "awacs": [
+    "A-50"
+  ],
+  "tankers": [
+    "IL-78M"
+  ],
+  "frontline_units": [
+    "BMP-2",
+    "BMP-3",
+    "SA-19 Grison (2K22 Tunguska)",
+    "T-72B with Kontakt-1 ERA",
+    "T-80UD",
+    "T-90A"
+  ],
+  "artillery_units": [
+    "2S19 Msta-S",
+    "BM-27 Uragan"
+  ],
+  "logistics_units": [
+    "LUV UAZ-469 Jeep",
+    "Truck Ural-375"
+  ],
+  "infantry_units": [
+    "Infantry AK-74 Rus",
+    "MANPADS SA-18 Igla-S \"Grouse\"",
+    "Paratrooper AKS",
+    "Paratrooper RPG-16"
+  ],
+  "air_defenses": [
+    "SA8Generator",
+    "SA9Generator",
+    "SA10Generator",
+    "SA11Generator",
+    "SA13Generator",
+    "SA15Generator",
+    "SA17Generator",
+    "SA19Generator",
+    "Tier2SA10Generator",
+    "Tier3SA10Generator",
+    "SA10BGenerator",
+    "SA12Generator",
+    "SA20Generator",
+    "SA20BGenerator",
+    "SA23Generator",
+    "ZSU23Generator",
+    "ZU23Generator",
+    "ZU23UralGenerator"
+  ],
+  "ewrs": [
+    "BoxSpringGenerator",
+    "TallRackGenerator"
+  ],
+  "aircraft_carrier": [
+    "KUZNECOW"
+  ],
+  "helicopter_carrier": [],
+  "helicopter_carrier_names": [],
+  "destroyers": [
+    "REZKY"
+  ],
+  "cruisers": [
+    "MOLNIYA"
+  ],
+  "requirements": {
+    "SU-57 Felon By CubanAce Simulations": "https://www.digitalcombatsimulator.com/fr/files/2539621/"
+  },
+  "carrier_names": [
+    "Admiral Kuznetsov"
+  ],
+  "navy_generators": [
+    "RussianNavyGroupGenerator"
+  ],
+  "has_jtac": true,
+  "jtac_unit": "MQ-9 Reaper"
+}

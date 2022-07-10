@@ -1,0 +1,128 @@
+{
+  "country": "China",
+  "name": "Redfor (China) 2010",
+  "authors": "Robert Peary",
+  "description": "<p>Combined Redfor under China's leadership in the late 2000s, early 2010s.</p>",
+  "aircrafts": [
+    "FC-1 Fierce Dragon",
+    "IL-76MD",
+    "J-11A Flanker-L",
+    "J-15 Flanker X-2",
+    "J-7B",
+    "Ka-50 Hokum",
+    "L-39ZA Albatros",
+    "Mi-24V Hind-E",
+    "Mi-24P Hind-F",
+    "Mi-28N Havoc",
+    "Mi-8MTV2 Hip",
+    "MiG-29S Fulcrum-C",
+    "MiG-31 Foxhound",
+    "Su-24M Fencer-D",
+    "Su-25 Frogfoot",
+    "Su-25T Frogfoot",
+    "Su-27 Flanker-B",
+    "Su-30MKK Flanker-G",
+    "Su-34 Fullback",
+    "Tu-22M3 Backfire-C",
+	"H-6J Badger"
+  ],
+  "awacs": [
+    "KJ-2000"
+  ],
+  "tankers": [
+    "IL-78M"
+  ],
+  "frontline_units": [
+    "BMP-1",
+    "BMP-2",
+    "BMP-3",
+    "BTR-80",
+    "BTR-82A",
+    "HQ-7 Launcher",
+    "SA-19 Grison (2K22 Tunguska)",
+    "T-55A",
+    "T-72B3 model 2011",
+    "T-80UD",
+    "T-90A",
+    "Type 04A (ZBD-04A)",
+    "Type 96B (ZTZ-96B)"
+  ],
+  "artillery_units": [
+    "2S19 Msta-S",
+    "2S9 Nona-S",
+    "BM-27 Uragan",
+    "BM-30 Smerch (9M55K5 HE Rockets)"
+  ],
+  "logistics_units": [
+    "LUV UAZ-469 Jeep",
+    "Truck Ural-375"
+  ],
+  "infantry_units": [
+    "Infantry AK-74 Rus",
+    "MANPADS SA-18 Igla \"Grouse\"",
+    "Mortar 2B11 120mm",
+    "Paratrooper AKS",
+    "Paratrooper RPG-16"
+  ],
+  "air_defenses": [
+    "HQ7Generator",
+    "SA2Generator",
+    "SA6Generator",
+    "SA8Generator",
+    "SA9Generator",
+    "SA10Generator",
+    "SA11Generator",
+    "SA13Generator",
+    "SA15Generator",
+    "SA17Generator",
+    "SA19Generator",
+    "Tier2SA10Generator",
+    "Tier3SA10Generator",
+    "SA10BGenerator",
+    "SA12Generator",
+    "SA20Generator",
+    "SA20BGenerator",
+    "SA23Generator",
+    "ZSU23Generator",
+    "ZU23Generator",
+    "ZU23UralGenerator"
+  ],
+  "ewrs": [
+    "BoxSpringGenerator",
+    "TallRackGenerator"
+  ],
+  "aircraft_carrier": [
+    "KUZNECOW"
+  ],
+  "carrier_names": [
+    "001 Liaoning",
+    "002 Shandong"
+  ],
+  "helicopter_carrier": [
+    "Type_071"
+  ],
+  "helicopter_carrier_names": [
+    "Kunlun Shan",
+    "Jinggang Shan",
+    "Changbai Shan",
+    "Yimeng Shan",
+    "Longhu Shan",
+    "Wuzhi Shan",
+    "Wudang Shan"
+  ],
+  "destroyers": [
+    "REZKY",
+    "Type_052B",
+    "Type_052C"
+  ],
+  "cruiser": [
+    "MOLNIYA",
+    "Type_054A"
+  ],
+  "requirements": {},
+  "navy_generators": [
+    "ChineseNavyGroupGenerator"
+  ],
+  "has_jtac": true,
+  "jtac_unit": "WingLoong-I"
+}
